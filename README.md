@@ -23,9 +23,6 @@ ________________________________________________________________________________
 3) [NFS - Русскоязычная документация](https://help.ubuntu.ru/wiki/nfs)
 4) [Как настроить NFS (Network File System) на RHEL/CentOS/Fedora и Debian/Ubuntu](https://andreyex.ru/operacionnaya-sistema-linux/kak-nastroit-nfs-network-file-system-na-rhel-centos-fedora-i-debian-ubuntu/)
 
-
-
-
 ```vagrant up``` поднимает 2 vm: server, client
 
 Для проверки:
