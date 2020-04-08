@@ -44,4 +44,4 @@ showmount -e server
 touch /mnt/nfs-share/upload/file
 ls -l /mnt/nfs-share/upload/
 ```
-
+![Img_alt](https://github.com/Edo1993/otus_36/blob/master/pics/361.png)
